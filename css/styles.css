@@ -1,0 +1,82 @@
+.page-content {
+	background: url('../img/bg-page.jpg') center top no-repeat white;
+}
+
+.container.article {
+	margin-top: 30px;
+}
+
+ul.nav {
+	font-size: 16px;
+}
+
+.page {
+	background: white;
+/*	border: 1px solid #DADADA;
+*/	padding: 30px 6% 80px;
+	margin: 70px 0 0 0;
+	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.container footer {
+	margin-top: 80px;
+}
+
+.featurette li {
+	line-height: 50px;
+}
+
+dl, dt, dd {
+	font-size: 20px;
+	line-height: 29px;
+}
+
+dl dt [class^="icon-"], [class*=" icon-"], dl dd [class^="icon-"], [class*=" icon-"] {
+	margin-top: 5px;
+}
+
+dd.email {
+	margin-bottom: 20px;
+}
+
+legend {
+	line-height: ;
+}
+
+/* servicios.html
+.article ul li {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+ul.complementarios li {
+	font-size: 14px;
+	line-height: 22px;
+}
+*/
+
+.trabajos-realizados .page .span4 {
+	max-width: 323px;
+}
+
+.un-trabajo {
+	margin: 20px 0;
+}
+
+.un-trabajo h3 {
+	line-height: 30px;
+}
+
+.un-trabajo p.lead {
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 10px;
+}
+
+.un-trabajo p.lead strong {
+	color: rgb(54, 54, 54);
+	font-weight: normal;
+}
+
+.un-trabajo img {
+}
